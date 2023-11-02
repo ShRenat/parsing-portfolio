@@ -1,5 +1,3 @@
-# parsing-portfolio
-This Repository Contains Samples Of Web Scrapers For Various Websites, Ranging From Banks To Online Stores
 # Parsing Portfolio
 
 This repository contains samples of web scrapers for various websites, ranging from banks to online stores. These scrapers are written in the Python programming language and can be useful for extracting data from websites in automated projects.
